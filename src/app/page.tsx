@@ -6,7 +6,7 @@ import TicketBooking from "../component/ticket";
 // Defining the interface for Header component's props
 interface HeaderProps {
   title?: string; // The title prop is optional and of type string
-  className?: string; // className prop
+  className?: string; // className props
 }
 
 // Header component that takes a title prop
